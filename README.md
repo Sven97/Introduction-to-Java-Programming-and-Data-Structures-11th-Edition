@@ -4,7 +4,7 @@ My solutions to programming exercises in Introduction To Java Programming Compre
 
 Contributions of all kinds are welcome, not only in the form of code but also with regards bug reports.
 
-------
+
 ## License & copyright
 
 © Sven
