@@ -21,10 +21,15 @@ public class Exercise0206_Sum_the_digits_in_an_integer {
         int number = input.nextInt();
 
         int sumOfDigits = 0;
-        for (int i = 0; i < 4; i++) {
-            sumOfDigits += number % 10;
-            number = number / 10;
-        }
+
+        sumOfDigits += number % 10;
+        number = number / 10;
+        sumOfDigits += number % 10;
+        number = number / 10;
+        sumOfDigits += number % 10;
+        number = number / 10;
+        sumOfDigits += number % 10;
+
         System.out.println("The sum of the digits is " + sumOfDigits);
     }
 }

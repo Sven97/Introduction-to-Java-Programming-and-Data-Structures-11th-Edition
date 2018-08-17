@@ -15,15 +15,27 @@ package Chapter01;
 
 public class Exercise0111_Population_projection {
     public static void main(String[] args) {
-        int secondsInYear = 365*24*60*60;
-        double birthNumberInYear = secondsInYear/7.0;
-        double deathNumberInYear = secondsInYear/13.0;
-        double immigrantNumberInYear = secondsInYear/45;
+        int secondsInYear = 365 * 24 * 60 * 60;
+        double birthNumberInYear = secondsInYear / 7.0;
+        double deathNumberInYear = secondsInYear / 13.0;
+        double immigrantNumberInYear = secondsInYear / 45;
         double population = 312032486;
 
-        for (int i = 0; i < 5; i++) {
-            population = population + birthNumberInYear -deathNumberInYear +immigrantNumberInYear;
-            System.out.println("Year #"+ (i+1) +" Population: "+ (int)population);
-        }
+        population = population + birthNumberInYear - deathNumberInYear + immigrantNumberInYear;
+        System.out.println("Year #1 Population: " + (int) population);
+
+        population = population + birthNumberInYear - deathNumberInYear + immigrantNumberInYear;
+        System.out.println("Year #2 Population: " + (int) population);
+
+        population = population + birthNumberInYear - deathNumberInYear + immigrantNumberInYear;
+        System.out.println("Year #3 Population: " + (int) population);
+
+        population = population + birthNumberInYear - deathNumberInYear + immigrantNumberInYear;
+        System.out.println("Year #4 Population: " + (int) population);
+
+        population = population + birthNumberInYear - deathNumberInYear + immigrantNumberInYear;
+        System.out.println("Year #5 Population: " + (int) population);
+
+
     }
 }
