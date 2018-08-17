@@ -12,7 +12,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_07 {
+public class Exercise0207_Find_the_number_of_years {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number of minutes: ");

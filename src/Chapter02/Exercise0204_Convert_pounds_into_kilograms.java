@@ -12,7 +12,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_04 {
+public class Exercise0204_Convert_pounds_into_kilograms {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number in pounds: ");

@@ -7,7 +7,7 @@
  */
 package Chapter01;
 
-public class Exercise01_09 {
+public class Exercise0109_Area_and_perimeter_of_a_rectangle {
     public static void main(String[] args) {
         System.out.println("The area of a rectangle with the width of 4.5 and height of 7.9 is " + 4.5 * 7.9);
         System.out.println("The perimeter of a rectangle with the width of 4.5 and height of 7.9 is " + 2 * (4.5 + 7.9));

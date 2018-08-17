@@ -14,7 +14,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_01 {
+public class Exercise0201_Convert_Celsius_to_Fahrenheit {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a degree in Celsius: ");

@@ -6,7 +6,7 @@
  */
 package Chapter01;
 
-public class Exercise01_12 {
+public class Exercise0112_Average_speed_in_kilometers {
     public static void main(String[] args) {
         System.out.println("The average speed is " + (24 * 1.6 / (1 + 40.0 / 60 + 35.0 / 60 / 60)) + " km/h");
     }

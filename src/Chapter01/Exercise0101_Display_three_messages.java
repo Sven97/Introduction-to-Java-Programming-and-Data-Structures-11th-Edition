@@ -6,7 +6,7 @@
  */
 package Chapter01;
 
-public class Exercise01_01 {
+public class Exercise0101_Display_three_messages {
     public static void main(String[] args) {
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Computer Science");

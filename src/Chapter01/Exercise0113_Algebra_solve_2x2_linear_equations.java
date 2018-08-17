@@ -10,7 +10,7 @@
  */
 package Chapter01;
 
-public class Exercise01_13 {
+public class Exercise0113_Algebra_solve_2x2_linear_equations {
     public static void main(String[] args) {
         double a = 3.4;
         double b = 50.2;

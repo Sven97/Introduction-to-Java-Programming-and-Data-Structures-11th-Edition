@@ -13,7 +13,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_05 {
+public class Exercise0205_Financial_application_calculate_tips {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the subtotal and a gratuity rate: ");

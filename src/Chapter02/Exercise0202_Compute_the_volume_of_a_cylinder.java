@@ -15,7 +15,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_02 {
+public class Exercise0202_Compute_the_volume_of_a_cylinder {
     public static void main(String[] args) {
         double PI = 3.1415926;
         Scanner input = new Scanner(System.in);

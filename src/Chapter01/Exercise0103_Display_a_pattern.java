@@ -9,7 +9,7 @@
  */
 package Chapter01;
 
-public class Exercise01_03 {
+public class Exercise0103_Display_a_pattern {
     public static void main(String[] args) {
         System.out.println("    J     A     V     V    A");
         System.out.println("    J    A A     V   V    A A");

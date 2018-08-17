@@ -14,7 +14,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_06 {
+public class Exercise0206_Sum_the_digits_in_an_integer {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number between 0 and 1000: ");

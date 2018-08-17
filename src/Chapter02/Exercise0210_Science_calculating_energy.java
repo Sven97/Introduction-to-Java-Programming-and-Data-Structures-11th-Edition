@@ -17,7 +17,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_10 {
+public class Exercise0210_Science_calculating_energy {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the amount of water in kilograms: ");

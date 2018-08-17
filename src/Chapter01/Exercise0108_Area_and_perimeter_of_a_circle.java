@@ -8,7 +8,7 @@
  */
 package Chapter01;
 
-public class Exercise01_08 {
+public class Exercise0108_Area_and_perimeter_of_a_circle {
     public static void main(String[] args) {
         System.out.println("The area of a circle that has a radius of 5.5 is " + 5.5 * 5.5 * 3.14);
         System.out.println("The perimeter of a circle that has a radius of 5.5 is " + 2 * 5.5 * 3.14);

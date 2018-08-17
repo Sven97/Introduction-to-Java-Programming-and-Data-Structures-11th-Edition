@@ -13,7 +13,7 @@
  */
 package Chapter01;
 
-public class Exercise01_11 {
+public class Exercise0111_Population_projection {
     public static void main(String[] args) {
         int secondsInYear = 365*24*60*60;
         double birthNumberInYear = secondsInYear/7.0;

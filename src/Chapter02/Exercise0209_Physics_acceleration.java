@@ -15,7 +15,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_09 {
+public class Exercise0209_Physics_acceleration {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter v0, v1, and t: ");

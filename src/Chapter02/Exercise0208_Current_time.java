@@ -13,7 +13,7 @@ package Chapter02;
 
 import java.util.Scanner;
 
-public class Exercise02_08 {
+public class Exercise0208_Current_time {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the time zone offset to GMT: ");
