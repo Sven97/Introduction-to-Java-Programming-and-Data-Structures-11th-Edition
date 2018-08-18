@@ -1,6 +1,6 @@
 # Introduction-To-Java-Programming-10th-Edition
 
-This is my solutions to programming exercises in ***Introduction To Java Programming Comprehensive Version Tenth Edition***.
+This is my solutions to programming exercises in [***Introduction To Java Programming Comprehensive Version Tenth Edition***](http://wps.pearsoned.com/ecs_liang_ijp_10/).
 
 Contributions of all kinds are welcome, not only in the form of code but also with regards bug reports.
 
