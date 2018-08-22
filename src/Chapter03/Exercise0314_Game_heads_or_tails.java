@@ -16,15 +16,24 @@ public class Exercise0314_Game_heads_or_tails {
         System.out.print("Guess the result of a coin flip, Enter 0 for heads and 1 for tails: ");
         int userInput = input.nextInt();
 
-        System.out.print("Coin flipping...");
-        int coinSide = (int) (Math.random() * 2);
+        // Little trick for ...
+        System.out.print("Coin flipping ");
+        for (int i = 0; i < 3; i++) {
+            System.out.print(".");
+            try {
+                Thread.sleep(500);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
 
+        int coinSide = (int) (Math.random() * 2);
         if (coinSide == 0) {
-            System.out.print("It is heads. \nYour guess is ");
-            System.out.println(userInput == 0 ? " heads, good job!" : "tails, try again!");
+            System.out.print("\nIt is heads. \nYour guess is ");
+            System.out.println(userInput == 0 ? "heads, good job!" : "tails, try again!");
         } else {
-            System.out.print("It is tails. \nYour guess is ");
-            System.out.println(userInput != 0 ? " heads, good job!" : "tails, try again!");
+            System.out.print("\nIt is tails. \nYour guess is ");
+            System.out.println(userInput != 0 ? "heads, try again!" : "tails, good job!");
         }
     }
 }
