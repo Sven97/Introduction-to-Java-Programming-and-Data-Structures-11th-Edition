@@ -8,7 +8,7 @@
  * Enter three points for a triangle: 1.5 -3.4 4.6 5 9.5 -3.4
  * The area of the triangle is 33.6
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

@@ -8,7 +8,7 @@
  * Enter a degree in Celsius: 43
  * 43 Celsius is 109.4 Fahrenheit
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

@@ -17,7 +17,7 @@
  * Enter a, b, c: 1 2 3
  * The equation has no real roots
  *
- * Created by Sven on 08/18/18
+ * Created by Sven on 8/18/2018
  */
 package Chapter03;
 

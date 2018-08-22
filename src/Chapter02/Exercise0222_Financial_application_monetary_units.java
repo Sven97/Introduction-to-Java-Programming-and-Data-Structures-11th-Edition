@@ -3,7 +3,7 @@
  * accuracy when converting a double value to an int value. Enter the input as an integer whose last two digits
  * represent the cents. For example, the input 1156 represents 11 dollars and 56 cents.
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

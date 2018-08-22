@@ -8,7 +8,7 @@
  * Enter the side: 5.5
  * The area of the hexagon is 78.5895
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

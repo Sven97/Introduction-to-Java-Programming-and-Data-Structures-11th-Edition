@@ -2,7 +2,7 @@
  * (Summation of a series) Write a program that displays the result of
  * 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9.
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/16/2018.
  */
 package Chapter01;
 

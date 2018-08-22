@@ -8,7 +8,7 @@
  * Enter x2 and y2: 4 5
  * The distance between the two points is 8.764131445842194
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

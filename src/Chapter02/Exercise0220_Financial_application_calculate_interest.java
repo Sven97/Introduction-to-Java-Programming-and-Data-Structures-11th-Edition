@@ -9,7 +9,7 @@
  * Enter balance and interest rate (e.g., 3 for 3%): 1000 3.5
  * The interest is 2.91667
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

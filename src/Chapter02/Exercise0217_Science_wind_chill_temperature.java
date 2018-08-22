@@ -14,7 +14,7 @@
  * Enter the wind speed (>=2) in miles per hour: 6
  * The wind chill index is -5.56707
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

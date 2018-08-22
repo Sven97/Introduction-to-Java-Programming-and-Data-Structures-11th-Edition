@@ -6,7 +6,7 @@
  * Enter a number in pounds: 55.5
  * 55.5 pounds is 25.197 kilograms
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

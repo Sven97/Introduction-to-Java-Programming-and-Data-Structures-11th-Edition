@@ -6,7 +6,7 @@
  * Write a program that solves the following equation and displays the value for x and y:
  * 3.4x + 50.2y = 44.5  2.1x + .55y = 5.9
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/16/2018.
  */
 package Chapter01;
 

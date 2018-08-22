@@ -3,7 +3,7 @@
  * width of 4.5 and height of 7.9 using the following formula:
  * area = width * height
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/16/2018.
  */
 package Chapter01;
 

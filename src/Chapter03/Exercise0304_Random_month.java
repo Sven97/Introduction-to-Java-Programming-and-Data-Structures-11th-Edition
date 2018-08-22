@@ -1,6 +1,8 @@
 /**
  * (Random month) Write a program that randomly generates an integer between 1 and 12 and displays the English month
  * name January, February, …, December for the number 1, 2, …, 12, accordingly.
+ *
+ * Created by Sven on 8/18/2018.
  */
 package Chapter03;
 
@@ -45,7 +47,6 @@ public class Exercise0304_Random_month {
             case 12:
                 monthName = "December";
                 break;
-
         }
         System.out.println("The randomly generated integer is " + monthNumber + ", the month name is " + monthName);
     }

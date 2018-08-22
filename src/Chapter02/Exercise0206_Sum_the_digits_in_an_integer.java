@@ -8,7 +8,7 @@
  * Enter a number between 0 and 1000: 999
  * The sum of the digits is 27
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

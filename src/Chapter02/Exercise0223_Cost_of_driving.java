@@ -8,7 +8,7 @@
  * Enter price per gallon: 3.55
  * The cost of driving is $125.3
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

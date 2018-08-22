@@ -9,7 +9,7 @@
  *  result with the fractional part, one of the values involved in the division must be a number with a decimal point.
  *  For example, 5.0 / 4 is 1.25 and 10 / 4.0 is 2.5.
  *
- *  Created by Sven on 08/16/18.
+ *  Created by Sven on 8/16/2018.
  */
 package Chapter01;
 

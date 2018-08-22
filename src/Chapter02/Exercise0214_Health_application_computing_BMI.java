@@ -9,7 +9,7 @@
  * Enter height in inches: 50
  * BMI is 26.8573
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

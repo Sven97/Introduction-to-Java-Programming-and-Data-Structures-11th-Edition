@@ -3,7 +3,7 @@
  * to enter the sum of these two integers. Revise the program to generate three single-digit integers and prompt the
  * user to enter the sum of these three integers.
  *
- * Created by Sven on 08/18/18.
+ * Created by Sven on 8/18/2018.
  */
 package Chapter03;
 

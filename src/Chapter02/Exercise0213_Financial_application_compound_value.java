@@ -15,7 +15,7 @@
  * Enter the monthly saving amount: 100
  * After the sixth month, the account value is $608.81
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

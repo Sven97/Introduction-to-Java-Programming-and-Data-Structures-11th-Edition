@@ -7,7 +7,7 @@
  * Enter the subtotal and a gratuity rate: 10 15
  * The gratuity is $1.5 and total is $11.5
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

@@ -9,7 +9,7 @@
  * Enter v0, v1, and t: 5.5 50.9 4.5
  * The average acceleration is 10.0889
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

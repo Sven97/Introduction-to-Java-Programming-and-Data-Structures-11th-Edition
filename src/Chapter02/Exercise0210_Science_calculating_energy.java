@@ -11,7 +11,7 @@
  * Enter the final temperature: 10.5
  * The energy needed is 1625484.0
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

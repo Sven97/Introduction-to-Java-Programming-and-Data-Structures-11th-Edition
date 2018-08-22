@@ -8,7 +8,7 @@
  * Enter a, b, c, d, e, f: 1.0 2.0 2.0 4.0 4.0 5.0
  * The equation has no solution
  *
- * Created by Sven on 08/18/18.
+ * Created by Sven on 8/18/2018.
  */
 package Chapter03;
 

@@ -11,7 +11,7 @@
  * Enter number of years: 1
  * Accumulated value is $1043.92
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

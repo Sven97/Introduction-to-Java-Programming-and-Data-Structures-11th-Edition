@@ -6,7 +6,7 @@
  * Enter the number of minutes: 1000000000
  * 1000000000 minutes is approximately 1902 years and 214 days
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

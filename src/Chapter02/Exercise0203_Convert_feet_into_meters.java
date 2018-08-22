@@ -6,7 +6,7 @@
  * Enter a value for feet: 16.5
  * 16.5 feet is 5.0325 meters
  *
- * Created by Sven on 08/16/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 

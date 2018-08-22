@@ -9,7 +9,7 @@
  * Enter speed and acceleration: 60 3.5
  * The minimum runway length for this airplane is 514.286
  *
- * Created by Sven on 08/17/18.
+ * Created by Sven on 8/17/2018.
  */
 package Chapter02;
 
