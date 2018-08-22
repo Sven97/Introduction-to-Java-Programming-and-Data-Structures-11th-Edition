@@ -9,7 +9,6 @@ package Chapter03;
 
 import java.util.Scanner;
 
-import static java.lang.Thread.sleep;
 
 public class Exercise0314_Game_heads_or_tails {
     public static void main(String[] args) {
@@ -17,7 +16,7 @@ public class Exercise0314_Game_heads_or_tails {
         System.out.print("Guess the result of a coin flip, Enter 0 for heads and 1 for tails: ");
         int userInput = input.nextInt();
 
-        System.out.print("Coin flipping");
+        System.out.print("Coin flipping...");
         int coinSide = (int) (Math.random() * 2);
 
         if (coinSide == 0) {
