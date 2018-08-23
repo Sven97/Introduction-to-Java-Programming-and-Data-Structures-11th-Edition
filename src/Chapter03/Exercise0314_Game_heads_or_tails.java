@@ -28,12 +28,8 @@ public class Exercise0314_Game_heads_or_tails {
         }
 
         int coinSide = (int) (Math.random() * 2);
-        if (coinSide == 0) {
-            System.out.print("\nIt is heads. \nYour guess is ");
-            System.out.println(userInput == 0 ? "heads, good job!" : "tails, try again!");
-        } else {
-            System.out.print("\nIt is tails. \nYour guess is ");
-            System.out.println(userInput != 0 ? "heads, try again!" : "tails, good job!");
-        }
+        System.out.println(coinSide == 0 ? "\nIt is heads." : "\nIt is tails.");
+        System.out.println(userInput == 0 ? "Your guess is heads." : "Your guess is tails.");
+        System.out.println(userInput == coinSide ? "GOOD JOB!" : "TRY AGAIN!");
     }
 }
