@@ -1,8 +1,8 @@
 # Introduction to Java Programming and Data Structures 11th Edition
 
-This is my solutions to programming exercises in [***Introduction To Java Programming Comprehensive Version Tenth Edition***](http://wps.pearsoned.com/ecs_liang_ijp_10/).
+This is my solutions to programming exercises in [***Introduction to Java Programming and Data Structures Comprehensive Version Eleventh Edition.***](https://www.pearson.com/us/higher-education/program/Liang-Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-11th-Edition/PGM2297842.html).
 
-Contributions of all kinds are welcome, not only in the form of code but also with regards typo correction.
+Contributions of all kinds are welcome, not only in the form of code improvement but also with regards typo correction.
 
 
 ## License & copyright
