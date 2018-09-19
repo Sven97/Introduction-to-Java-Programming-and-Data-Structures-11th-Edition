@@ -21,7 +21,7 @@ import java.util.Scanner;
 
 public class Exercise0402_Geometry_great_circle_distance {
     public static void main(String[] args) {
-        final double RADIOUS_OF_THE_EARTH = 6371.01;
+        final double RADIUS_OF_THE_EARTH = 6371.01;
         Scanner input = new Scanner(System.in);
         System.out.print("Enter point 1 (latitude and longitude) in degrees: ");
         double x1 = input.nextDouble();
@@ -29,8 +29,10 @@ public class Exercise0402_Geometry_great_circle_distance {
         System.out.println("Enter point 2 (latitude and longitude) in degrees: ");
         double x2 = input.nextDouble();
         double y2 = input.nextDouble();
-        double greatCircleDistance = RADIOUS_OF_THE_EARTH *
+        double greatCircleDistance = RADIUS_OF_THE_EARTH *
                 Math.acos(Math.sin(x1) * Math.sin(x2) + Math.cos(x1) * Math.cos(x2) * Math.cos(y1 - y2));
         System.out.println("The distance between the two points is "+ greatCircleDistance +" km");
+
+        System.out.println();
     }
 }
