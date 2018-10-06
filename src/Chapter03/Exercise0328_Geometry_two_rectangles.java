@@ -1,7 +1,8 @@
 /**
- * (Geometry: two rectangles) Write a program that prompts the user to enter the center x-, y-coordinates, width, and
- * height of two rectangles and determines whether the second rectangle is inside the first or overlaps with the first,
- * as shown in Figure 3.9. Test your program to cover all cases.
+ * (Geometry: two rectangles) Write a program that prompts the user to enter the
+ * center x-, y-coordinates, width, and height of two rectangles and determines
+ * whether the second rectangle is inside the first or overlaps with the first, as shown
+ * in Figure 3.9. Test your program to cover all cases.
  *
  * Here are the sample runs:
  * Enter r1's center x-, y-coordinates, width, and height: 2.5 4 2.5 43

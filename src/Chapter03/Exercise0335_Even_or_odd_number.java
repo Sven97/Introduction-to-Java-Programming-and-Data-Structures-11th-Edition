@@ -1,6 +1,6 @@
 /**
- * (Even or odd number) Write a program that prompts the user to enter an integer and displays whether the integer is an
- * odd number or not.
+ * (Even or odd number) Write a program that prompts the user to enter an integer and
+ * displays whether the integer is an odd number or not.
  *
  * Here are the sample runs:
  * Enter an integer: 200
