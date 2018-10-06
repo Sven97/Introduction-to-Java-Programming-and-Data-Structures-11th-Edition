@@ -1,6 +1,6 @@
 /**
- * (Sort three integers) Write a program that prompts the user to enter three integers and display the integers in
- * non-decreasing order.
+ * (Sort three integers) Write a program that prompts the user to enter three integers
+ * and display the integers in non-decreasing order.
  *
  * Created by Sven on 8/22/2018.
  */

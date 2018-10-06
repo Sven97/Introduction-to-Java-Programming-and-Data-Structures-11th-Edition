@@ -1,7 +1,8 @@
 /**
- * (Game: add three numbers) The program in Listing 3.1, AdditionQuiz.java, generates two integers and prompts the user
- * to enter the sum of these two integers. Revise the program to generate three single-digit integers and prompt the
- * user to enter the sum of these three integers.
+ * (Game: multiply three numbers) The program in Listing 3.1, AdditionQuiz.java,
+ * generates two integers and prompts the user to enter the product of these two integers.
+ * Revise the program to generate three single-digit integers and prompt the user
+ * to enter the multiplication of these three integers.
  *
  * Created by Sven on 8/18/2018.
  */
@@ -9,7 +10,7 @@ package Chapter03;
 
 import java.util.Scanner;
 
-public class Exercise0302_Game_add_three_numbers {
+public class Exercise0302_Game_multiply_three_numbers {
     public static void main(String[] args) {
         int number1, number2, number3;
         // Method 1: Generate three single-digit integers
@@ -23,10 +24,10 @@ public class Exercise0302_Game_add_three_numbers {
         number3 = (int) (Math.random() * 9 + 1);
 
         Scanner input = new Scanner(System.in);
-        System.out.print("What is " + number1 + " + " + number2 + " + " + number3 + "? ");
+        System.out.print("What is " + number1 + " * " + number2 + " * " + number3 + "? ");
         int answer = input.nextInt();
 
-        System.out.println(number1 + " + " + number2 + " + " + number3 + " = " + answer + " is " +
-                (number1 + number2 + number3 == answer));
+        System.out.println(number1 + " * " + number2 + " * " + number3 + " = " + answer + " is " +
+                (number1 * number2 * number3 == answer));
     }
 }

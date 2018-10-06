@@ -1,6 +1,6 @@
 /**
- * (Random point) Write a program that displays a random coordinate in a rectangle. The rectangle is centered at (0, 0)
- * with width 100 and height 200.
+ * (Random point) Write a program that displays a random coordinate in a rectangle.
+ * The rectangle is centred at (0, 0) with width 50 and height 150.
  *
  * Created by Sven on 8/23/2018.
  */

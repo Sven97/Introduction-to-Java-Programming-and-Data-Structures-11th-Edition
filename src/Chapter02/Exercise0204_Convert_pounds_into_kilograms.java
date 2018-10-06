@@ -1,10 +1,11 @@
 /**
- * (Convert pounds into kilograms) Write a program that converts pounds into kilograms. The program prompts the user to
- * enter a number in pounds, converts it to kilograms, and displays the result. One pound is 0.454 kilograms.
+ * (Convert square meter into ping) Write a program that converts square meter into ping.
+ * The program prompts the user to enter a number in square meter, converts it to ping,
+ * and displays the result. One square meter is 0.3025 ping.
  *
  * Here is a sample run:
- * Enter a number in pounds: 55.5
- * 55.5 pounds is 25.197 kilograms
+ * Enter a number in square meters: 50
+ * 50.0 square meters is 15.125 pings
  *
  * Created by Sven on 8/17/2018.
  */
@@ -15,10 +16,10 @@ import java.util.Scanner;
 public class Exercise0204_Convert_pounds_into_kilograms {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter a number in pounds: ");
-        double pounds = input.nextDouble();
+        System.out.println("Enter a number in square meters: ");
+        double squareMeters = input.nextDouble();
 
-        double kilograms = pounds * 0.454;
-        System.out.println(pounds + " pounds is " + kilograms + " kilograms");
+        double pings = squareMeters * 0.3025;
+        System.out.println(squareMeters + " square meters is " + pings + " pings");
     }
 }
