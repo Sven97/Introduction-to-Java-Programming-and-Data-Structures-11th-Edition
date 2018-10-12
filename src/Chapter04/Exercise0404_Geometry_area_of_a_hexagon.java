@@ -21,6 +21,6 @@ public class Exercise0404_Geometry_area_of_a_hexagon {
         System.out.print("Enter the side: ");
         double side = input.nextDouble();
         double area = (6 * Math.pow(side, 2)) / (4 * Math.tan(Math.PI / 6));
-        System.out.println("The area of the hexagon is " + area);
+        System.out.printf("The area of the hexagon is %.2f", area);
     }
 }
