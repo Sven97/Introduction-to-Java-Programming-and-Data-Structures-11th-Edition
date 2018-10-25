@@ -27,8 +27,8 @@ public class Exercise0412_Hex_to_binary {
         if (decVal == -1) {
             System.out.println(character + " is an invalid input");
         } else {
-            String binval = Integer.toBinaryString(decVal);
-            System.out.println("The binary value is " + binval);
+            String binVal = Integer.toBinaryString(decVal);
+            System.out.println("The binary value is " + binVal);
         }
     }
 }
