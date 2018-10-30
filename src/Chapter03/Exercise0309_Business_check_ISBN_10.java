@@ -25,8 +25,8 @@ public class Exercise0309_Business_check_ISBN_10 {
         // The code can be optimized using "loop" in Chapter 5
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the first 9 digits of an ISBN as integer: ");
-        int orginalNum = input.nextInt();
-        int remainNum = orginalNum;
+        int originalNum = input.nextInt();
+        int remainNum = originalNum;
         int d9 = remainNum % 10;
         remainNum /= 10;
         int d8 = remainNum % 10;
@@ -47,7 +47,7 @@ public class Exercise0309_Business_check_ISBN_10 {
 
         int d10 = (d1 * 1 + d2 * 2 + d3 * 3 + d4 * 4 + d5 * 5 + d6 * 6 + d7 * 7 + d8 * 8 + d9 * 9) % 11;
 
-        System.out.print(d1 == 0 ? ("he ISBN-10 number is 0" + orginalNum) : ("he ISBN-10 number is " + orginalNum));
+        System.out.print(d1 == 0 ? ("The ISBN-10 number is 0" + originalNum) : ("The ISBN-10 number is " + originalNum));
         System.out.println(d10 == 10 ? "X" : d10);
     }
 }
