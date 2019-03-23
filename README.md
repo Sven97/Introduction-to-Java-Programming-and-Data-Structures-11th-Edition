@@ -6,7 +6,7 @@ This is my solutions to programming exercises in [Introduction to Java Programmi
 
 
 
-Contributions of all kinds are welcome, not only in the form of code improvement but also with regards typo correction.
+Contributions of all kinds are welcome, not only in the form of code improvement but also with regards typo correction, etc.
 
 
 ## License & copyright
