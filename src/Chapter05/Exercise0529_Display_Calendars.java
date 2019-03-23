@@ -29,9 +29,7 @@ import java.util.Scanner;
 
 public class Exercise0529_Display_Calendars {
     public static void main(String[] strings) {
-
         Scanner input = new Scanner(System.in);
-
         System.out.print("Enter a year: ");
         int year = input.nextInt();
 
@@ -99,7 +97,6 @@ public class Exercise0529_Display_Calendars {
             System.out.println("-----------------------------");
             System.out.println(" Sun Mon Tue Wed Thu Fri Sat");
 
-
             for (int i = 0; i < startDay; i++) {
                 System.out.print("    ");
             }
@@ -114,8 +111,7 @@ public class Exercise0529_Display_Calendars {
                     System.out.println();
                 }
             }
-            System.out.println("");
-
+            System.out.println();
 
             startDay = (startDay + numberOfDaysInMonth) % 7;
         }
