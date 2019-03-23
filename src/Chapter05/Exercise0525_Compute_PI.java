@@ -1,5 +1,6 @@
 /**
  * (Compute p) You can approximate p by using the following summation:
+ * PI = 4(1 - 1/3 + 1/5 - 1/7 + 1/9 - ... + ((-)^(i+1))/(2i - 1))
  * Write a program that displays the p value for i = 10000, 20000, …, and 100000.
  *
  * Created by Sven on 3/21/2019.
