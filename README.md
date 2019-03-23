@@ -15,9 +15,11 @@
 
 # Introduction to Java Programming and Data Structures 11th Edition
 
-This is my personal solutions to programming exercises in [Introduction to Java Programming and Data Structures Comprehensive Version Eleventh Edition](https://www.pearson.com/us/higher-education/program/Liang-Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-11th-Edition/PGM2297842.html).
+This **[repo](https://github.com/Sven97/Introduction-to-Java-Programming-and-Data-Structures-11th-Edition/)** contains my personal solutions to programming exercises in the textbook - [Introduction to Java Programming and Data Structures Comprehensive Version Eleventh Edition](https://www.pearson.com/us/higher-education/program/Liang-Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Plus-My-Lab-Programming-with-Pearson-e-Text-Access-Card-Package-11th-Edition/PGM2297842.html) published by [Y. Daniel Liang](https://yongdanielliang.github.io/).
 
-Contributions of all kinds are welcome, not only in the form of code improvement but also with regards typo correction, etc.
+The programming exercises in this book is very suitable for Java beginner. Hope my solution can provide you with some ideas in solving these exercises
+
+Please don't hesitate to give me your feedback if any adjustment is needed with my solutions. You can simply press the "Pencil icon" in the upper right corner to edit the contents or simply [open an issue](https://github.com/Sven97/Introduction-to-Java-Programming-and-Data-Structures-11th-Edition/issues/new) in [this repository](https://github.com/Sven97/Introduction-to-Java-Programming-and-Data-Structures-11th-Edition/)
 
 
 ## License & copyright
