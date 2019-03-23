@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Sven97/Introduction-to-Java-Programming-and-Data-Structures-11th-Edition/"><img src="/images/book_cover.jpg" height="200" title="Cover" alt="Cover"></a>
+  <a href="https://github.com/Sven97/Introduction-to-Java-Programming-and-Data-Structures-11th-Edition/"><img src="https://www.pearsonhighered.com/assets/bigcovers/0/1/3/4/0134694511.jpg" height="300" title="Cover" alt="Cover"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/completion-71%25-blue.svg" />
