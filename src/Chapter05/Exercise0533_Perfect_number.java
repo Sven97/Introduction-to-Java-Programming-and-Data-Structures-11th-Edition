@@ -21,8 +21,8 @@ public class Exercise0533_Perfect_number {
                 }
                 divisor--;
             }
-            if (number == sumOfDivisors){
-                System.out.print(number+" ");
+            if (number == sumOfDivisors) {
+                System.out.print(number + " ");
             }
         }
     }
