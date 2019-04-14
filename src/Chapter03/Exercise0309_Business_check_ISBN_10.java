@@ -47,7 +47,13 @@ public class Exercise0309_Business_check_ISBN_10 {
 
         int d10 = (d1 * 1 + d2 * 2 + d3 * 3 + d4 * 4 + d5 * 5 + d6 * 6 + d7 * 7 + d8 * 8 + d9 * 9) % 11;
 
-        System.out.print(d1 == 0 ? ("The ISBN-10 number is 0" + originalNum) : ("The ISBN-10 number is " + originalNum));
-        System.out.println(d10 == 10 ? "X" : d10);
+        String ISBN10str = String.format("%09d", originalNum); // Append "0" on the left to make it 9 digits
+        if (d10 == 10) {
+            ISBN10str += "X";
+        } else {
+            ISBN10str += d10;
+        }
+
+        System.out.print("The ISBN-10 number is " + ISBN10str);
     }
 }
