@@ -227,7 +227,7 @@ public class Exercise0624_Display_current_date_and_time {
             case 6:
                 dayName = "Friday";
                 break;
-            case 7:
+            case 0:
                 dayName = "Saturday";
                 break;
         }
