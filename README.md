@@ -2,7 +2,7 @@
   <a href="https://github.com/Sven97/Introduction-to-Java-Programming-and-Data-Structures-11th-Edition/"><img src="https://www.pearsonhighered.com/assets/bigcovers/0/1/3/4/0134694511.jpg" height="300" title="Cover" alt="Cover"></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/completion-13.64%25-blue.svg" />
+<img src="https://img.shields.io/badge/completion-6/3025-blue.svg" />
   <a href="https://github.com/Sven97/Introduction-to-Java-Programming-and-Data-Structures-11th-Edition/graphs/contributors" alt="Contributors">
     <img src="https://img.shields.io/github/contributors/Sven97/Introduction-to-Java-Programming-and-Data-Structures-11th-Edition.svg" />
   </a>
